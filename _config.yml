@@ -41,7 +41,7 @@ github_username: Bonnie970
  
 # Internal nav
 nav:
- writing: "root_url/writing/"
+ CV: "root_url/writing/"
  gallery: "root_url/gallery/"
  about: "root_url/about/"
 
