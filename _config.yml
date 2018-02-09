@@ -31,7 +31,7 @@ owner:
 
 # Social networking links used in footer. Update and remove as you like.
 #twitter_username: MAD4Jekyll
-facebook_username: Bonnie Guanqing Hu
+facebook_username: https://www.facebook.com/guanqing.hu.1
 github_username: Bonnie970
 #deviantart_username: MAD4Jekyll
 #500px_username: MAD4Jekyll
@@ -41,7 +41,7 @@ github_username: Bonnie970
  
 # Internal nav
 nav:
- CV: "root_url/writing/"
+ writing: "root_url/writing/"
  gallery: "root_url/gallery/"
  about: "root_url/about/"
 
