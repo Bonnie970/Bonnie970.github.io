@@ -13,10 +13,10 @@
 .one-third.column               { width: 30.6666666667%; }
 .two-thirds.column              { width: 65.3333333333%; }
 .col-md-right-cntxt {
-    text-align:right;
+    text-align:left;
 }
 .col-md-left-cntct {
-    text-align:right;
+    text-align:left;
     display: block;
     float: left;
     width: 66.666666%;
