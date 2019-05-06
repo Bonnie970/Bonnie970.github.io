@@ -23,12 +23,12 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #008989;
+  color: #d1c7c4;
     text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #f08080;
+  color: #e8e3d3;
   outline: none;
       text-decoration: none;
 }
@@ -280,7 +280,7 @@ hr.small {
 }
 footer {
   padding: 50px 0 65px;
-  background-color: #223333;
+  background-color: #231815;
 }
 footer .list-inline {
   margin: 0;
